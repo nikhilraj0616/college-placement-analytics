@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+backend/venv/
+venv/
+.venv/
+
+# Environment variables (never commit real secrets)
+.env
+*.env.local
+
+# SQLite database (may contain real data)
+*.db
+*.sqlite
+*.sqlite3
+
+# Node / frontend
+frontend/node_modules/
+node_modules/
+frontend/dist/
+dist/
+.DS_Store
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log

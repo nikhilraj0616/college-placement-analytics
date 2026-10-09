@@ -1,0 +1,31 @@
+roll_no,name,branch,cgpa,graduation_year,company,sector,company_type,job_role,package_lpa,offer_type,placement_date,status
+CS001,Aarav Sharma,CSE,9.1,2024,Google,IT,MNC,SDE,28.0,Full-Time,2024-09-10,Placed
+CS002,Priya Patel,CSE,8.7,2024,Microsoft,IT,MNC,SDE,24.5,Full-Time,2024-09-15,Placed
+CS003,Rohit Verma,CSE,7.9,2024,Infosys,IT,MNC,Systems Engineer,4.5,Full-Time,2024-10-01,Placed
+CS004,Sneha Gupta,CSE,8.3,2024,Amazon,IT,MNC,SDE,18.0,Full-Time,2024-09-20,Placed
+CS005,Karan Mehta,CSE,6.8,2024,TCS,IT,MNC,Software Engineer,3.8,Full-Time,2024-10-05,Placed
+CS006,Anjali Singh,CSE,9.4,2024,Goldman Sachs,Finance,MNC,Analyst,22.0,Full-Time,2024-09-12,Placed
+CS007,Vikas Yadav,CSE,7.2,2024,Wipro,IT,MNC,Trainee,3.5,Full-Time,2024-10-10,Placed
+CS008,Neha Joshi,CSE,8.0,2024,Deloitte,Consulting,MNC,Consultant,9.5,Full-Time,2024-09-25,Placed
+CS009,Arjun Nair,CSE,5.9,2024,HCL,IT,MNC,Support Engineer,3.2,Full-Time,2024-11-01,Placed
+CS010,Divya Reddy,CSE,9.0,2024,Adobe,IT,MNC,SDE,21.0,Full-Time,2024-09-18,Placed
+EC001,Rahul Kumar,ECE,8.5,2024,Qualcomm,IT,MNC,VLSI Engineer,18.0,Full-Time,2024-09-22,Placed
+EC002,Pooja Iyer,ECE,7.8,2024,Samsung,IT,MNC,RF Engineer,12.0,Full-Time,2024-10-03,Placed
+EC003,Suresh Balan,ECE,6.5,2024,BHEL,Core,Government,Trainee Engineer,7.5,Full-Time,2024-10-15,Placed
+EC004,Meera Thomas,ECE,8.9,2024,Texas Instruments,IT,MNC,Chip Design,16.0,Full-Time,2024-09-28,Placed
+EC005,Aditya Sharma,ECE,7.1,2024,Bosch,Core,MNC,Embedded Engineer,8.5,Full-Time,2024-10-08,Placed
+EC006,Lakshmi Pillai,ECE,9.2,2024,Intel,IT,MNC,Hardware Engineer,20.0,Full-Time,2024-09-14,Placed
+ME001,Sanjay Tiwari,Mechanical,8.0,2024,Tata Motors,Core,MNC,Design Engineer,6.5,Full-Time,2024-10-20,Placed
+ME002,Ritu Singh,Mechanical,7.4,2024,L&T,Core,MNC,Project Engineer,7.0,Full-Time,2024-10-25,Placed
+ME003,Prakash Goel,Mechanical,6.9,2024,ISRO,Core,Government,Scientist-B,9.0,Full-Time,2024-11-05,Placed
+ME004,Kavitha Menon,Mechanical,8.2,2024,Mahindra,Core,MNC,Product Engineer,6.8,Full-Time,2024-10-18,Placed
+ME005,Deepak Jain,Mechanical,5.8,2024,ABC Manufacturing,Core,Startup,Junior Engineer,4.2,Full-Time,2024-11-10,Placed
+CV001,Ananya Mishra,Civil,7.6,2024,L&T Construction,Core,MNC,Site Engineer,6.0,Full-Time,2024-10-30,Placed
+CV002,Harish Nair,Civil,8.1,2024,NHAI,Core,Government,Junior Engineer,8.0,Full-Time,2024-11-02,Placed
+CV003,Swathi Raghavan,Civil,6.4,2024,Shapoorji Pallonji,Core,MNC,Civil Engineer,5.5,Full-Time,2024-11-08,Placed
+CV004,Manoj Pillai,Civil,7.9,2024,Gammon India,Core,MNC,Structural Engineer,6.2,Full-Time,2024-10-28,Placed
+CH001,Bhavya Shah,Chemical,8.3,2024,Reliance Industries,Core,MNC,Process Engineer,9.5,Full-Time,2024-10-12,Placed
+CH002,Nandini Roy,Chemical,7.5,2024,HPCL,Core,Government,Graduate Trainee,8.8,Full-Time,2024-11-06,Placed
+CH003,Tarun Agarwal,Chemical,6.7,2024,BASF,Core,MNC,Production Engineer,7.2,Full-Time,2024-10-22,Placed
+CS011,Varun Kapoor,CSE,8.6,2024,Flipkart,IT,Startup,SDE,16.0,Full-Time,2024-09-30,Placed
+EC007,Shreya Varma,ECE,7.3,2024,Siemens,Core,MNC,Automation Engineer,10.5,Full-Time,2024-10-06,Placed
